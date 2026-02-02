@@ -185,6 +185,7 @@ body {
     font-size: 25px;
     margin-left: 4px;
     transition: all .3s ease-in-out;
+    color: #d6001c;
 }
 
 .upload__icon {
