@@ -454,7 +454,7 @@ body {
 
     .appeal-step__files,
     .appeal-step__upload {
-        gap: 20px;
+        gap: 50px;
     }
 
     .file,
@@ -541,7 +541,7 @@ body {
 
     .appeal-step__files,
     .appeal-step__upload {
-        gap: 15px;
+        gap: 50px;
     }
 
     .file,
