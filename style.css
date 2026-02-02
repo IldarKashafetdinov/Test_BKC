@@ -501,12 +501,6 @@ body {
         font-size: 15px;
     }
 
-    .appeal-step__button {
-        padding: 6px 35px;
-        font-size: 12px;
-        border-radius: 20px;
-    }
-
     .appeal__notice {
         padding: 12px;
     }
@@ -518,8 +512,9 @@ body {
 
     .appeal-step__button {
         width: 100%;
-        padding: 5px 30px;
-        font-size: 11px;
+        padding: 7px 40px;
+        font-size: 13px;
+        border-radius: 20px;
     }
 }
 
@@ -577,8 +572,8 @@ body {
 
     .appeal-step__button {
         width: 100%;
-        padding: 5px 30px;
-        font-size: 11px;
+        padding: 7px 40px;
+        font-size: 13px;
     }
 }
 
